@@ -87,7 +87,18 @@ body{
     border-color: rgb(68, 34, 21); 
     color: #ffffff;
 }
-
+.textofranquicias{
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.textocontacto{
+    text-align: left;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.pizzamozzarella{
+    width: 30%;
+    height: 30%;
+}
 
 
 
